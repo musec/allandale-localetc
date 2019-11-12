@@ -1,0 +1,6 @@
+This directory uses Git for revision control of all non-default configuration files.
+When changing a config file in this directory:
+
+ * if the file is not already in Git, add the "vanilla" version
+ * make changes to the file locally
+ * commit and push the changes
